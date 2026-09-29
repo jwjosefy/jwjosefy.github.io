@@ -1,3 +1,7 @@
-theme: minima
+remote_theme: jekyll/minima@4de322363fca5927e6f4012cb94f6dad69ab5e6c
+plugins:
+  - jekyll-remote-theme
 title: Johann Josefy
 description: Notes and side projects.
+minima:
+  skin: dark

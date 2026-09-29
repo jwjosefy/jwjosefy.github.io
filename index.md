@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: base
 ---
 
-Hi, I'm Johann. This is where I keep notes on things I'm building.
+Hi, I'm [Johann](https://www.linkedin.com/in/johannwj/). This is where I keep notes on things I'm building.
 
 ## Projects
 
