@@ -1,5 +1,5 @@
 ---
-title: Johann Josefy
+layout: default
 ---
 
 Hi, I'm Johann. This is where I keep notes on things I'm building.
