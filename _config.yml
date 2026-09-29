@@ -4,4 +4,4 @@ plugins:
 title: Johann Josefy
 description: Notes and side projects.
 minima:
-  skin: dark
+  skin: solarized-dark
